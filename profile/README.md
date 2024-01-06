@@ -1,9 +1,9 @@
-# Custom android firmware for RK35XX Rockchip series CPU.
+### Custom android firmware for RK35XX Rockchip series CPU.
 
-# Supported boards:
+#### Supported boards:
 * Orange PI 5
 * Orange PI 5 Plus
 
-# Planned
+#### Planned
 * Rock 5B
 * Rock 5A
